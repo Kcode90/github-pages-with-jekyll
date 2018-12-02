@@ -7,4 +7,4 @@ github_username:  https://github.com/Kcode90
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minima
